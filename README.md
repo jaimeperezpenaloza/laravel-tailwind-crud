@@ -23,8 +23,8 @@ This is a test project created to practice and demonstrate the integration of **
 
 ## 🧰 Technologies Used
 
-- ⚙️ **Laravel 10**
-- 💨 **Tailwind CSS 3**
+- ⚙️ **Laravel 12**
+- 💨 **Tailwind CSS **
 - 🔄 **Blade Templates**
 - 🌐 HTML5 / CSS3
 - 🐘 PHP 8.2+
